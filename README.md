@@ -24,7 +24,7 @@ O SisVendas é um sistema de E-COMMERCE desenvolvido em Java Desktop utilizando 
 ## Diagrama de Classe
 A seguir está o diagrama de classe que representa a estrutura do sistema:
 
-![Diagrama de Classe](diagrama_classe.png)
+![Diagrama de Classe](https://github.com/adsluizapaiva/TrabalhoLP_POO/blob/main/DIAGRAMA.drawio%20(1).png)
 
 ## Prints das Telas
 
